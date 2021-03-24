@@ -1,0 +1,28 @@
+{
+    "data": {
+      "animal": {
+        "id": "ckmmsesugdq320b24sa2k9jhw",
+        "name": "Duck"
+      },
+      "femaleNames": [
+        {
+          "id": "ckmms4oncdxc80b681akeyqte",
+          "name": "Duck"
+        },
+        {
+          "id": "ckmms4vlcdw0q0c79jtu5pxg9",
+          "name": "Hen"
+        }
+      ],
+      "maleNames": [
+        {
+          "id": "ckmms43tcdvxt0c79zt4o553b",
+          "name": "Drake"
+        },
+        {
+          "id": "ckmms4bj4dv650c8178fz9pto",
+          "name": "Cock"
+        }
+      ]
+    }
+  }
